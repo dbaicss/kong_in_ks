@@ -94,7 +94,7 @@ spec:
           - name: "DB_ADAPTER"
             value: "postgres"
           - name: "DB_HOST"
-            value: "10.106.44.182"
+            value: "postgres"
           - name: "DB_PORT"
             value: "5432"
           - name: "DB_USER"
